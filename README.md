@@ -1,16 +1,11 @@
 # [aozora-cover] - Book Cover images for Aozora-bunko
 
-「[青空文庫]」に収録されている作品を表す統一的な書影が欲しいと思い自作しました。デザイン・センスに関しては勘弁してください。
+「[青空文庫]」に収録されている作品を表す統一的な書影が欲しいと思い自作しました。
+デザイン・センスに関しては勘弁してください。
 
-## 背景のみ
+とりあえず背景画像のみです。
 
 ![青空文庫](https://github.com/spiegel-im-spiegel/aozora-cover/blob/master/cover-raw.jpg)
-
-## タイトル付き
-
-![青空文庫](https://github.com/spiegel-im-spiegel/aozora-cover/blob/master/cover-titled.jpg)
-![青空文庫](https://github.com/spiegel-im-spiegel/aozora-cover/blob/master/cover-titled-s.jpg)
-![青空文庫](https://github.com/spiegel-im-spiegel/aozora-cover/blob/master/cover-titled-t.jpg)
 
 ## License
 
