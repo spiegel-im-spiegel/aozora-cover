@@ -16,8 +16,9 @@
 
 [![GitHub license](https://img.shields.io/badge/license-CC0-blue.svg)](https://raw.githubusercontent.com/spiegel-im-spiegel/aozora-cover/master/LICENSE)
 
-このリポジトリにある画像はすべて [CC0] の下に利用可能です。
-These codes are licensed under [CC0].
+このリポジトリにある画像は [CC0] の下に利用可能です。
+
+These images are licensed under [CC0].
 
 
 [青空文庫]: https://www.aozora.gr.jp/ "青空文庫　Aozora Bunko"
